@@ -1,0 +1,14 @@
+```
+DOCTYPE html>
+>
+>
+>Plant-Based Milk Facts</title>
+src="script.js"></script>
+</head>
+>
+1>Plant-Based Milk Facts</h1>
+id="fact"></p>
+onclick="generateFact()">Generate Fact</button>
+</body>
+</html>
+```
